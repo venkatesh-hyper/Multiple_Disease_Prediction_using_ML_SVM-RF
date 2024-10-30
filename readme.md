@@ -74,7 +74,7 @@ User Interface: Develop a graphical user interface (GUI) for better usability.
 Contributing
 Contributions are encouraged! To propose a change, fork the repository, create a new branch, and submit a pull request. Contributions in dataset expansion, model improvement, and interface enhancements are especially welcome.
 
-<b>License</b
+<b>License</b>
 This project is licensed under the MIT License. 
 
 Contact
