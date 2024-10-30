@@ -1,6 +1,6 @@
 <b align="center">Multiple Disease Prediction using ML (SVM & RF)</b>
 
-<B>verview</b>
+<B>Overview</b>
 This project implements a predictive system for diseases based on a machine learning model trained on symptoms. Using Support Vector Machines (SVM) and Random Forest (RF) classifiers, it aims to provide preliminary diagnoses for diseases based on a range of user-provided symptoms. This approach is not a substitute for professional medical advice but can aid initial screening.
 
 <b>Features</b>
