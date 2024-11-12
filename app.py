@@ -3,9 +3,9 @@ import numpy as np
 import joblib
 
 # Load pre-trained models
-svm8020 = joblib.load("svm8020.pkl")
-svm6040 = joblib.load("svm6040.pkl")
-randfor = joblib.load("RandomForest8020.pkl")
+svm8020 = joblib.load("models /svm8020.pkl")
+svm6040 = joblib.load("models /svm6040.pkl")
+randfor = joblib.load("models /RandomForest8020.pkl")
 st.markdown(
     """
     <style>
